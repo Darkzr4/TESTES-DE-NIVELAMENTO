@@ -20,4 +20,4 @@ Implementação de 4 desafios técnicos:
 📧 Contato
 
 Desenvolvedor: [Jefferson Cavalcante Vieira](https://www.linkedin.com/in/jeff-cav22/)
-Email: [jeff.cavalcante12@gmail.com]
+Email: [jeff.cavalcante12@gmail.com](mailto:jeff.cavalcante12@gmail.com)
